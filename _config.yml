@@ -1,0 +1,28 @@
+name: molekoola
+favicon: null
+layout_spectrum: 0.3301296695135534
+typography_spectrum: 0.5822367167565972
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1737846378237009
+  lightness: 0.6872026845812798
+  saturation: 0.15947225922718644
+  rhythmicContrast: 0.17969030095264316
+purpose: []
